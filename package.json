@@ -38,7 +38,7 @@
   "devDependencies": {
     "@labshare/semantic-release-config": "^1.1.3",
     "conventional-changelog": "~1.1.0",
-    "mocha": "^7.1.1",
+    "mocha": "^10.2.0",
     "semantic-release": "^15.14.0"
   },
   "engines": {
