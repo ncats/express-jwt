@@ -39,7 +39,7 @@
     "@labshare/semantic-release-config": "^1.1.3",
     "conventional-changelog": "~1.1.0",
     "mocha": "^7.1.1",
-    "semantic-release": "^15.14.0"
+    "semantic-release": "^21.0.1"
   },
   "engines": {
     "node": ">= 8.0.0"
